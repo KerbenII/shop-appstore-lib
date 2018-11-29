@@ -5,6 +5,9 @@ See: http://developers.shoper.pl/
 
 # Changelog
 
+## Version 1.2.5
+* \# fixed Parameter must be an array or an object that implements Countable while using PHP 7.2
+
 ## Version 1.2.4
 * \# fixed parsing response headers
 * \# fixed handling OAuth exception when HTTP response is empty
